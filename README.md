@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶ𝘾𝙡𝙖𝙨𝙨𝙞𝙘 𝗕𝗼𝘁-𝗩3ꫂ<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/7c6bca96ed39ece86a760.jpg" />
+<img src="https://telegra.ph/file/e7e75787f251b2e78896d.jpg" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 ## ```Bot Support Group Chats```
 
 - [`1st GC`](https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk)
-- 
+- [Channel](https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e)
 
 
 
@@ -47,7 +47,8 @@
 - FORK THE REPOSITORY [Here](https://github.com/Samue-l1/Classic-v3-BUG/fork)
 
 ## `Generate Pair Code For Session`
-[![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@pesguru02/Pairing-Classic-Ai)
+
+[Classic Pairing](https://replit.com/@pesguru02/Classic-Pairing)
 
 # Instalasi
 ## Heroku Buildpack
@@ -56,8 +57,14 @@ heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Samue-l1/Classic-v3-BUG/)
+*Add your Creds.json to Classic file
+* Create a new app at [Heroku](heroku.com)
+* Add Build packs
+* Connect your heroku with your github
+* Locate Classic-v3-BUG
+* Now deploy.
+* Start the Worker
+* Enjoy the Bot.
 
 ```
 ## `For Termux/Ssh/Ubuntu`
